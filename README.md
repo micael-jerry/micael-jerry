@@ -7,9 +7,6 @@
 <a href="https://www.instagram.com/mickael_jerry/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/micael-jerry-fidimalala-78a32a278/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:fidimalala.mj@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<br>
-<br>
-<img src="https://www.codewars.com/users/micael-jerry/badges/large" alt="codwars badge" />
 </p>
 
 <br>
@@ -24,6 +21,8 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 <br>
+
+<img src="https://www.codewars.com/users/micael-jerry/badges/large" alt="codwars badge" />
 
 ### Techno and Tools
 
@@ -64,15 +63,12 @@
 <br/>
 <br/>
 
-<p align='center'>
+<div align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-jerry&show_icons=true&hide_border=true&theme=radical"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=micael-jerry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Micael Jerry's Github Stats">
-</p>
+</div>
 
 <br>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-jerry&show_icons=true&hide_border=true&theme=radical">
-</p>
 
 <!-- <a href="https://github.com/micael-jerry/portfolio-micael-jerry">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=micael-jerry&repo=portfolio-micael-jerry&theme=dark" />
