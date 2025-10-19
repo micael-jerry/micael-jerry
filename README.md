@@ -4,8 +4,7 @@
 
 <p align="center">
 <br>
-<a href="https://www.instagram.com/mickael_jerry/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/micael-jerry-fidimalala-78a32a278/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/micael.jerry/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="mailto:fidimalala.mj@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
@@ -13,12 +12,12 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN255Z3dhc3hnYTNidDVzNDkzeDJ4YXp3aGsxaGo2bXJjaDdyeWlwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Computer Science student at 42
 
-- 🔭 I’m currently working on my Portfolio Website 😎
-- 🌱 I’m currently learning Ruby and Rails. 💁
+- 🔭 I am currently working on a school project at 42 😎
+- 🌱 I’m currently learning C++. 💁
 - 💬 Ask me about anything, I am happy to help 😀
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!](https://micael-jerry.github.io/portfolio-micael-jerry/)
 
 <br>
 
